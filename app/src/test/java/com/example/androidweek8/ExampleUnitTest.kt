@@ -1,4 +1,4 @@
-package com.example.assignment8
+package com.example.androidweek8
 
 import org.junit.Test
 

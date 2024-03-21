@@ -13,5 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "assignment4"
+rootProject.name = "AndroidWeek8"
 include(":app")
+ 
